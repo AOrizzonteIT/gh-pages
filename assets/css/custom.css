@@ -4,3 +4,5 @@
 .top.is-visible{
     height: 4rem;
 }
+img.is-loaded {
+    opacity: 0.4;}
