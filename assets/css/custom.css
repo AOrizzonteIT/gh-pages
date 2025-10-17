@@ -4,5 +4,6 @@
 .top.is-visible{
     height: 4rem;
 }
-figure > img.is-loaded {
-    opacity: 0.4;}
+.hero__image {
+    opacity: 0.6;
+}
