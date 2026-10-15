@@ -3,12 +3,40 @@
     <title>ALTROORIZZONTE</title>
     <link href="https://altroorizzonte.it/feed.xml" rel="self" />
     <link href="https://altroorizzonte.it" />
-    <updated>2026-08-28T14:05:28+02:00</updated>
+    <updated>2026-10-14T12:21:22+02:00</updated>
     <author>
         <name>AO_IT</name>
     </author>
     <id>https://altroorizzonte.it</id>
 
+    <entry>
+        <title>Camminare Conoscere Crescere - Alla scoperta dei Vivai</title>
+        <author>
+            <name>AO_IT</name>
+        </author>
+        <link href="https://altroorizzonte.it/camminare-conoscere-crescere-alla-scoperta-dei-vivai/"/>
+        <id>https://altroorizzonte.it/camminare-conoscere-crescere-alla-scoperta-dei-vivai/</id>
+        <media:content url="https://altroorizzonte.it/media/posts/21/WhatsApp-Image-2026-10-08-at-23.30.55.jpeg" medium="image" />
+            <category term="Eventi"/>
+
+        <updated>2026-10-14T12:21:22+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://altroorizzonte.it/media/posts/21/WhatsApp-Image-2026-10-08-at-23.30.55.jpeg" alt="" />
+                    L’associazione Altro Orizzonte promuove una nuova tappa del ciclo di iniziative “Camminare&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://altroorizzonte.it/media/posts/21/WhatsApp-Image-2026-10-08-at-23.30.55.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>L’associazione Altro Orizzonte promuove una nuova tappa del ciclo di iniziative “Camminare Conoscere Crescere”, un appuntamento pensato per riscoprire il legame profondo tra la comunità e le ricchezze storiche e naturali della città. L’evento si terrà domenica 18 ottobre 2026, con partenza alle ore 15:00 dal Quartiere Ischia (piazzale della Chiesa Gran Madre di Dio). La camminata, un percorso di livello turistico adatto a tutte le età senza particolari difficoltà, attraverserà i vivai della zona sud di Grottammare.  La tradizione florovivaistica rappresenta per Grottammare un autentico vanto, una peculiarità identitaria e un patrimonio collettivo che affonda le radici nella passione delle famiglie e nel lavoro silenzioso di chi coltiva l'eccellenza ogni giorno. Sensibile alla tutela e alla promozione di questa risorsa fondamentale, l'associazione intende porre l'accento su un settore strategico per l'immagine e l'economia del territorio, che meriterebbe un'attenzione ancora più incisiva e adeguata nelle politiche di promozione e cura della città.  L'itinerario sarà arricchito dalla presenza di un agronomo esperto, che guiderà i partecipanti tra segreti botanici, aneddoti e racconti legati alla storia delle aziende locali. La camminata si snoderà tra le realtà vive e storiche del settore, ma l'invito è aperto all'intera cittadinanza e a tutti gli operatori del florovivaismo, grandi e piccoli, poiché ogni vivaio, ogni attività custodiscono una storia preziosa e la bellezza unica del nostro paesaggio.  A conclusione dell'itinerario, è previsto un momento conviviale offerto dai vivaisti di Grottammare. L’iscrizione è gratuita ed è consigliata con un messaggio WhatsApp al num. 391 3410454. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://altroorizzonte.it/media/posts/21/gallery/WhatsApp-Image-2026-10-08-at-23.30.56.jpeg" data-size="1080x1350"><img loading="lazy" src="https://altroorizzonte.it/media/posts/21/gallery/WhatsApp-Image-2026-10-08-at-23.30.56-thumbnail.jpeg" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://altroorizzonte.it/media/posts/21/gallery/WhatsApp-Image-2026-10-08-at-23.30.55.jpeg" data-size="1080x1350"><img loading="lazy" src="https://altroorizzonte.it/media/posts/21/gallery/WhatsApp-Image-2026-10-08-at-23.30.55-thumbnail.jpeg" alt="" width="768" height="960"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>“Il mio Pinocchio… a Grottammare”: creatività, partecipazione e solidarietà in una giornata speciale</title>
         <author>
@@ -20,7 +48,7 @@
             <category term="Eventi"/>
 
         <updated>2026-07-16T11:02:06+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://altroorizzonte.it/media/posts/17/WhatsApp-Image-2026-08-19-at-09.53.47.jpeg" alt="" />
                     Grande partecipazione e tanto entusiasmo per “Il mio Pinocchio… a Grottammare!”, l’iniziativa&hellip;
@@ -70,7 +98,7 @@
             <category term="Eventi"/>
 
         <updated>2026-07-15T11:05:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://altroorizzonte.it/media/posts/18/LIbro-luglio.png" alt="" />
                     “One Health Revolution” a Grottammare: cultura, salute e ambiente al centro dell’incontro&hellip;
@@ -123,7 +151,7 @@
         <media:content url="https://altroorizzonte.it/media/posts/20/WhatsApp-Image-2026-08-20-at-09.16.38-4.jpeg" medium="image" />
 
         <updated>2026-07-14T11:03:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://altroorizzonte.it/media/posts/20/WhatsApp-Image-2026-08-20-at-09.16.38-4.jpeg" alt="" />
                     Un' iniziativa che ci ha permesso di coniugare arte, storia e territorio.
@@ -161,7 +189,7 @@
             <category term="Eventi"/>
 
         <updated>2026-05-13T21:20:17+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://altroorizzonte.it/media/posts/16/Copia-di-Sala-Consiliare-Grottammare-2-2.png" alt="" />
                     Solitudine, relazioni umane e uso consapevole della tecnologia sono stati al centro dell’incontro promosso domenica 10 maggio nella Sala&hellip;
@@ -197,7 +225,7 @@
             <category term="Eventi"/>
 
         <updated>2026-04-15T09:24:40+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://altroorizzonte.it/media/posts/15/WhatsApp-Image-2026-04-28-at-22.07.31.jpeg" alt="" />
                     “Camminare, conoscere, crescere”: Grazie per aver reso speciale questa giornata! Siamo davvero&hellip;
@@ -224,7 +252,7 @@
 <p data-path-to-node="14">Il successo di questa camminata non è un episodio isolato, ma una tappa fondamentale del percorso che stiamo tracciando insieme a voi. Non ci fermiamo qui: siamo già al lavoro per i prossimi appuntamenti e, a breve, vi annunceremo un <strong data-path-to-node="14" data-index-in-node="234">nuovo incontro pubblico</strong>.</p>
 <p data-path-to-node="15">Continuate a seguirci per tutte le novità. Grazie di cuore a chi ha scelto di camminare con noi!</p>
 <div class="post__iframe"><iframe loading="lazy" width="100%" height="100%" src="https://player.mediadelivery.net/embed/604751/dc5c62a4-ae4b-4c46-802f-6727408e718e?autoplay=true&amp;loop=false&amp;muted=true&amp;preload=true&amp;responsive=true" title="Grottammare - Una passeggiata tra le bellezze del vecchio incasato con l’Associazione Altro Orizzonte" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" class="rounded mb-8">
-                            </iframe></div> </p>
+                            </iframe></div> 
 <p>Foto:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
 <figure class="gallery__item"><a href="https://altroorizzonte.it/media/posts/15/gallery/WhatsApp-Image-2026-04-28-at-22.05.58.jpeg" data-size="1600x900"><img loading="lazy" src="https://altroorizzonte.it/media/posts/15/gallery/WhatsApp-Image-2026-04-28-at-22.05.58-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
@@ -280,7 +308,7 @@
             <category term="Eventi"/>
 
         <updated>2025-11-13T21:51:53+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://altroorizzonte.it/media/posts/13/Gemini_Generated_Image_j0iojtj0iojtj0io.png" alt="Altro Orizzonte mettersi in gioco" />
                     GROTTAMMARE – Mettersi in ascolto delle fragilità dei ragazzi: è stato questo il tema&hellip;
@@ -343,7 +371,7 @@
             <category term="Eventi"/>
 
         <updated>2025-08-04T15:56:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://altroorizzonte.it/media/posts/2/salesi.png" alt="" />
                     Il progetto “Il mio supereroe a Grottammare” Una bella iniziativa artistico-solidale in&hellip;
@@ -380,7 +408,7 @@
             <category term="Eventi"/>
 
         <updated>2025-02-09T18:30:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://altroorizzonte.it/media/posts/10/479893412_122120989358633919_1318476426124800457_n.jpg" alt="" />
                     Presentazione libro Angelo Ventrone Presentazione del libro "La Strategia della Paura" di&hellip;
@@ -411,7 +439,7 @@
             <category term="Eventi"/>
 
         <updated>2025-01-08T11:18:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://altroorizzonte.it/media/posts/6/MediaTerrae.jpg" alt="" />
                     Presentazione del libro Mediae Terrae di Guido Castelli a Grottammare Domenica 26&hellip;
@@ -434,35 +462,6 @@
 <figure class="gallery__item"><a href="https://altroorizzonte.it/media/posts/6/gallery/475155685_1162265248591432_303351137181239351_n.jpg" data-size="2048x1212"><img loading="lazy" src="https://altroorizzonte.it/media/posts/6/gallery/475155685_1162265248591432_303351137181239351_n-thumbnail.jpg" alt="" width="768" height="455"></a></figure>
 <figure class="gallery__item"><a href="https://altroorizzonte.it/media/posts/6/gallery/MediaTerrae2.jpg" data-size="2048x1368"><img loading="lazy" src="https://altroorizzonte.it/media/posts/6/gallery/MediaTerrae2-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Combattere la guerra</title>
-        <author>
-            <name>AO_IT</name>
-        </author>
-        <link href="https://altroorizzonte.it/combattere-la-guerra/"/>
-        <id>https://altroorizzonte.it/combattere-la-guerra/</id>
-        <media:content url="https://altroorizzonte.it/media/posts/8/A3.jpg" medium="image" />
-            <category term="Eventi"/>
-
-        <updated>2024-12-22T14:37:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://altroorizzonte.it/media/posts/8/A3.jpg" alt="" />
-                    Incontro con Marco Tarquinio: presentazione del libro Combattere la guerra a Grottammare&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://altroorizzonte.it/media/posts/8/A3.jpg" class="type:primaryImage" alt="" /></p>
-                <h2 data-start="217" data-end="311">Incontro con Marco Tarquinio: presentazione del libro <em data-start="275" data-end="297">Combattere la guerra</em> a Grottammare</h2>
-<p> </p>
-<p data-start="313" data-end="674">Domenica <strong data-start="322" data-end="342">22 dicembre 2024</strong>, nella calda atmosfera della Sala Consiliare di Grottammare, l’Associazione <strong data-start="419" data-end="438">Altro Orizzonte</strong> ha ospitato la presentazione del libro <strong data-start="478" data-end="504"><em data-start="480" data-end="502">Combattere la guerra</em></strong>, firmato da <strong data-start="517" data-end="536">Marco Tarquinio</strong>, padre <strong data-start="544" data-end="563">Antonio Spadaro</strong> e <strong data-start="566" data-end="584">Sandro Calvani</strong>, con una prefazione del Cardinale <strong data-start="619" data-end="635">Matteo Zuppi.</strong></p>
-<p data-start="676" data-end="994">Moderato da <strong data-start="688" data-end="706">Simone Incicco</strong>, presidente dell’associazione, l’evento ha richiamato l’attenzione di autorità locali (tra cui il sindaco <strong data-start="813" data-end="834">Alessandro Rocchi</strong>) e personalità del mondo ecclesiale e civile, tra cui il prof. <strong data-start="898" data-end="920">Fernando Palestini</strong> e la giornalista <strong data-start="938" data-end="955">Sandra Amurri.</strong></p>
-<p data-start="996" data-end="1481">Tarquinio, ex direttore di <em data-start="1023" data-end="1033">Avvenire</em> ed europarlamentare, ha presentato il libro come un appello contro la violenza e l’omologazione alla guerra, invitando a un impegno pacifico e autentico: «Combattere la guerra può significare… schierarsi contro la guerra stessa». Con lucidità ha denunciato lo spreco immenso di risorse umane ed economiche dietro i conflitti attuali, citando esempi come l’Ucraina e Gaza.</p>
-<p data-start="1483" data-end="1908">Nel corso dell’incontro, Tarquinio ha tracciato un parallelo tra i “padri della pace” europei — come Schuman, De Gasperi, Berlinguer — e l’attualità, ribadendo che la politica consapevole è l’antidoto alla guerra. Ha inoltre affrontato il tema delle parole come strumento pacifico, ricordando che “disarmare le parole” è gesto quotidiano di civiltà.</p>
             ]]>
         </content>
     </entry>
